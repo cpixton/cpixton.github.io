@@ -13,4 +13,4 @@ I also work with PillPack, Inc., a Somerville-based pharmacy, on both production
 
 Before coming to MIT, I studied Mathematics at Brigham Young University. There I was fortunate to work with Professor Robin Roundy, who gave me my main introduction to Operations Research.
 
-Here's a link to my [CV](/assets/pdfs/Pixton_cv.pdf).
+Here's a link to my [CV](/assets/pdfs/Pixton_CV.pdf).
