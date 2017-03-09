@@ -9,5 +9,8 @@ I am a PhD candidate in the [Operations Research Center](http://orc.mit.edu/) at
 
 Currently, I am exploring statistics and optimization problems at the interface of marketing and operations management.
 
-[comment]: <> (I have also worked as an operations intern at [PillPack](https://www.pillpack.com/), where I have worked on both process improvement via optimization and analytics for predicting customer behaviors.)
-[comment]: <> (Before coming to MIT, I studied Mathematics at Brigham Young University. During my last year at BYU, I worked on undergraduate research in OR with Professor Robin Roundy.)
+I also work with PillPack, Inc., a Somerville-based pharmacy, on both production optimization and customer lifetime value analysis.
+
+Before coming to MIT, I studied Mathematics at Brigham Young University. There I was fortunate to work with Professor Robin Roundy, who gave me my main introduction to Operations Research.
+
+[comment]: <> (P.S. If you don't know whether you know what "Operations Research" is, check out my blog post: )
