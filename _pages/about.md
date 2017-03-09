@@ -12,5 +12,3 @@ Currently, I am exploring statistics and optimization problems at the interface 
 I also work with PillPack, Inc., a Somerville-based pharmacy, on both production optimization and customer lifetime value analysis.
 
 Before coming to MIT, I studied Mathematics at Brigham Young University. There I was fortunate to work with Professor Robin Roundy, who gave me my main introduction to Operations Research.
-
-[comment]: <> (P.S. If you don't know whether you know what "Operations Research" is, check out my blog post: )
