@@ -5,6 +5,8 @@ author_profile: true
 permalink: teaching.html
 ---
 
+* **Summer 2017.** _Instructor_: "Supply Chain Management" (BYU course Bus M 361).
+An undergraduate level course on supply chain and operations.  
 * **January 2017.** _Instructor_: "Statistical Modeling and Machine Learning in R." A 3-hour session, part of a 4-week course, 
 _Computing in Optimization and Statistics_, for MIT Operations Research graduate students. 
 [Notes](https://philchodrow.github.io/cos_2017/3_modeling_and_ml/S3_R_script_1.html),
