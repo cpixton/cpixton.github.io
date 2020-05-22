@@ -1,4 +1,4 @@
-Statistical Modeling and Machine Learning in R.---
+---
 layout: single
 title: Teaching
 author_profile: true
