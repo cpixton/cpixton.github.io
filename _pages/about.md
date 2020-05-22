@@ -5,12 +5,14 @@ author_profile: true
 permalink: about.html
 ---
 
-I am a PhD candidate in the [Operations Research Center](http://orc.mit.edu/) at the Massachusetts Institute of Technology, where I work with Professor [David Simchi-Levi](http://slevi1.mit.edu/).
+I am an assistant professor of supply chain analytics in the [Marriott School of Business](https://marriottschool.byu.edu) at Brigham Young University.
 
-Currently, I am exploring statistics and optimization problems at the interface of marketing and operations management.
+Prior to coming to BYU, I got my PhD in the [Operations Research Center](http://orc.mit.edu/) at the Massachusetts Institute of Technology under Professor [David Simchi-Levi](http://slevi1.mit.edu/). For my undergrad, I studied Mathematics at Brigham Young University. I was fortunate to work with Professor Robin Roundy, who gave me my main introduction to Operations Research.
 
-I also work with PillPack, Inc., a Somerville-based pharmacy, on both production optimization and customer lifetime value analysis.
+Research interests include:
 
-Before coming to MIT, I studied Mathematics at Brigham Young University. There I was fortunate to work with Professor Robin Roundy, who gave me my main introduction to Operations Research.
+* Algorithms for pricing and assortment optimization
+* Hospital operations management
+* Sustainable Energy
 
-Here's a link to my [CV](/assets/pdfs/Pixton_CV.pdf).
+Here's a link to my [CV](/assets/pdfs/2020_01_Pixton_CV.pdf).
